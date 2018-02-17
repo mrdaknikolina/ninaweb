@@ -1,0 +1,65 @@
+.jumbotron {
+	margin-top: 48px;
+    height: 700px;
+    background-image: url('https://whooosh-assets.s3.eu-central-1.amazonaws.com/public-files/Maroon-5-Wallpapers-HD.jpg');
+    color: white;
+    font-size: 50px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+h1 {	
+    font-size: 70px;
+	text-align: center;
+    color: white;
+    border: 3px solid white;
+}
+p {
+	text-align: justify;
+	font-size: 20px;
+    font-family:  'Lato', sans-serif;
+    color: white;
+}
+
+.information{ 
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding-top: 25px;
+}
+img{
+    display: block;
+    margin: auto;
+    padding-bottom: 30px;
+    height: 400px;
+    width: 350px;
+}
+
+.tour { 
+    background-color: black;
+    padding-top: 25px;}
+
+.half{
+    text-align: center;
+    
+    }
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+
+h3 {
+    color: white;
+}
+
+th {
+    color: white;
+}
+.row{
+	margin-left: 0px;
+	margin-right: 0px;
+}

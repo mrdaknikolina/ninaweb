@@ -1,0 +1,17 @@
+.jumbotron {
+	background-image: url('../images/newyork.jpg');
+	font-family: 'Kavivanar', cursive;
+}
+
+h1 {
+	border: none;
+}
+
+.main-content {
+	background-color: black;
+}
+
+img {
+	width: 800px;
+	height: 500px;
+}
